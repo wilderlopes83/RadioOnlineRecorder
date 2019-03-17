@@ -1,0 +1,14 @@
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/bin/Debug/netcoreapp2.1/RadioOnlineRecorder.deps.json
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/bin/Debug/netcoreapp2.1/RadioOnlineRecorder.runtimeconfig.json
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/bin/Debug/netcoreapp2.1/RadioOnlineRecorder.runtimeconfig.dev.json
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/bin/Debug/netcoreapp2.1/RadioOnlineRecorder.dll
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/bin/Debug/netcoreapp2.1/RadioOnlineRecorder.pdb
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.csprojAssemblyReference.cache
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.csproj.CoreCompileInputs.cache
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.RazorAssemblyInfo.cache
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.RazorAssemblyInfo.cs
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.AssemblyInfoInputs.cache
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.AssemblyInfo.cs
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.RazorTargetAssemblyInfo.cache
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.dll
+/media/wilder/HDD-DADOS/estudo/Ecad/RadioOnlineRecorder/obj/Debug/netcoreapp2.1/RadioOnlineRecorder.pdb
